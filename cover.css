@@ -20,9 +20,7 @@ a:hover {
 }
 
 
-/*
- * Base structure
- */
+
 
 html,
 body {
@@ -59,9 +57,7 @@ body {
 }
 
 
-/*
- * Header
- */
+
 
 .masthead {
   margin-bottom: 2rem;
